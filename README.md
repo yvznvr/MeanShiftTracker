@@ -3,7 +3,7 @@
 
 It's part of my final project(undergraduate) and I am going to publish thesis few month later on my native language (Turkish).
 
-[![Watch the video](https://www.youtube.com/upload_thumbnail?v=RZAF1Q7nYrc&t=hqdefault&ts=1553879287671)](https://youtu.be/RZAF1Q7nYrc)
+[![Watch the video](https://i.ytimg.com/vi/RZAF1Q7nYrc/hqdefault.jpg)](https://youtu.be/RZAF1Q7nYrc)
 
 Example
 ``` c
