@@ -1,7 +1,8 @@
 # Mean Shift Tracker
 #### Mean Shift Tracker Algorithm implementation with C++ 
 
-It's part of my final project(undergraduate) and I am going to publish thesis few month later on my native language (Turkish).
+Türkçe Blog Yazısı: https://medium.com/@yavuzunver/mean-shift-algoritmas%C4%B1-ile-nesne-takibi-de70c625b161
+English Paper: http://comaniciu.net/Papers/KernelTracking.pdf
 
 [![Watch the video](https://i.ytimg.com/vi/RZAF1Q7nYrc/hqdefault.jpg)](https://youtu.be/RZAF1Q7nYrc)
 
